@@ -33,9 +33,13 @@ body {
   display: block;
   margin: auto;
   margin-top: 20px;
-  margin-bottom: 20px;
+
   width: 100%;
   box-sizing: border-box;
+}
+
+.bottom-margin {
+  margin-bottom: 20px;
 }
 
 .blue-box h2 {
