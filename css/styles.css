@@ -25,6 +25,17 @@ body {
   border-radius: 8px;
 }
 
+.dumpling {
+  display: block;
+  margin-left: 0px;
+  margin-right: 20px;
+  width: 30%;
+  border-radius: 8px;
+  float: left;
+  
+}
+
+
 .blue-box {
   border: 2px solid rgb(0, 0, 0);
   border-radius: 8px;
