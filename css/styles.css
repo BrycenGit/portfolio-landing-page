@@ -1,8 +1,8 @@
 body {
   margin-top: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+  
 }
 
 .repo-links
@@ -48,4 +48,13 @@ body {
 
 .card {
   border: white;
+}
+
+.footer {
+  position: bottom;
+  margin-top: 10px;
+  width: 100%;
+  color: black;
+  text-align: right;
+  font-size: small;
 }

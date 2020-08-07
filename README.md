@@ -16,4 +16,4 @@ This is my first independent project for epicodus. The goal is to create a portf
 
 ###_Liscensing_
  **MIT liscense**
-Copyright (c) 2016 **_Brycen Bartolome brycenbartolome@gmail.com_**
+Copyright (c) 2020 **_Brycen Bartolome brycenbartolome@gmail.com_**
