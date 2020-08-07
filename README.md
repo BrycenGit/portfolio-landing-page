@@ -12,7 +12,6 @@ This is my first independent project for epicodus. The goal is to create a portf
 
 ## _Repository_
 * [gh-pages](https://brycengit.github.io/portfolio-landing-page/)
-* 
 
 ### _Liscensing_
  **MIT liscense**
