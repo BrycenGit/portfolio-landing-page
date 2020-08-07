@@ -5,8 +5,6 @@ body {
   word-wrap: break-word;
 }
 
-.repo-links
-
 .repo-links a {
   font-weight: bold;
   
@@ -33,7 +31,6 @@ body {
   border-radius: 8px;
 }
 
-
 .dumpling {
   display: block;
   margin-left: 0px;
@@ -43,7 +40,6 @@ body {
   float: left;
   
 }
-
 
 .blue-box {
   border: 2px solid rgb(0, 0, 0);
