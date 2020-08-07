@@ -67,5 +67,12 @@ body {
   color: #fff;
   text-align: center;
   border-radius: 4px;
+}
+
+.label-blue {
   background-color: rgb(46, 108, 223);
+}
+
+.label-red {
+  background-color: crimson;
 }
