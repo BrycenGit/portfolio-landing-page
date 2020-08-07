@@ -11,7 +11,7 @@ This is my first independent project for epicodus. The goal is to create a portf
 * Use gh-pages to see landing page.
 
 ## _Repository_
-* 
+* [gh-pages](https://brycengit.github.io/portfolio-landing-page/)
 * 
 
 ### _Liscensing_
