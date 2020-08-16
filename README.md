@@ -5,7 +5,7 @@ _Version 1, 8/7/20_
 ## _Description_
 This is my first independent project for epicodus. The goal is to create a portfolio landpage that we will later use as the landing page.
 
-##_Languages Used_
+## _Languages Used_
 * HTML
 * CSS
 * Bootstrap
